@@ -9,4 +9,4 @@ We love maps: we've built plenty of mapping systems for projects here on Earth. 
 
 Our name is a tribute to the late, great Sir Patrick Stewart, our favourite Star Trek captain.
 
-Our hackathon project goes up here once the event starts. Make it so.
+Our hackathon project goes up here, and at **[gcsa.space](https://gcsa.space)**, once the event starts. Make it so.
